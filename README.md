@@ -28,6 +28,11 @@
 
    [Реализация AutoML в файле pycaret.ipynb](pycaret.ipynb)
 
+4. **Модель**  
+   Обученая модель `best_pipeline.pkl` демонстрирует процесс предсказания.
+
+   [Модель best_pipeline.pkl](best_pipeline.pkl)   
+
 ## Как использовать
 
 1. **Предсказания**  
