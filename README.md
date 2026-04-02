@@ -51,7 +51,7 @@
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone https://github.com/ваш_репозиторий/GTTest.git
+   git clone https://github.com/TatsianaPoto/GTTest
    cd GTTest
 
 
